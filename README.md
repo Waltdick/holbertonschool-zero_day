@@ -1,2 +1,3 @@
 # holbertonschool-zero_day
-**Strong** __First Readme__
+
+**Read all relevant information first**
